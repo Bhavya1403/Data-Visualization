@@ -1,0 +1,163 @@
+{
+    "NYC": {
+      "cityName": "New York City",
+      "country": "United States",
+      "population": 8537673,
+      "area": 468.9,
+      "timezone": "EST",
+      "famousLandmarks": ["Statue of Liberty", "Central Park", "Times Square"]
+    },
+    "Tokyo": {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "population": 13929286,
+      "area": 2187.66,
+      "timezone": "JST",
+      "famousLandmarks": ["Tokyo Tower", "Senso-ji Temple", "Shibuya Crossing"]
+    },
+    "London": {
+      "cityName": "London",
+      "country": "United Kingdom",
+      "population": 8982000,
+      "area": 1572,
+      "timezone": "GMT",
+      "famousLandmarks": ["Big Ben", "Tower Bridge", "Buckingham Palace"]
+    },
+    "Paris": {
+      "cityName": "Paris",
+      "country": "France",
+      "population": 2140526,
+      "area": 105.4,
+      "timezone": "CET",
+      "famousLandmarks": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"]
+    },
+    "Beijing": {
+      "cityName": "Beijing",
+      "country": "China",
+      "population": 21710000,
+      "area": 16410.54,
+      "timezone": "CST",
+      "famousLandmarks": ["Great Wall of China", "Forbidden City", "Temple of Heaven"]
+    },
+    "Dubai": {
+      "cityName": "Dubai",
+      "country": "United Arab Emirates",
+      "population": 3137000,
+      "area": 4114,
+      "timezone": "GST",
+      "famousLandmarks": ["Burj Khalifa", "Palm Jumeirah", "Dubai Mall"]
+    },
+    "Sydney": {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "population": 5312163,
+      "area": 12368.7,
+      "timezone": "AEST",
+      "famousLandmarks": ["Sydney Opera House", "Sydney Harbour Bridge", "Bondi Beach"]
+    },
+    "Moscow": {
+      "cityName": "Moscow",
+      "country": "Russia",
+      "population": 12655000,
+      "area": 2511,
+      "timezone": "MSK",
+      "famousLandmarks": ["Red Square", "Kremlin", "Saint Basil's Cathedral"]
+    },
+    "Cairo": {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "population": 9900000,
+      "area": 606,
+      "timezone": "EET",
+      "famousLandmarks": ["Giza Pyramids", "Egyptian Museum", "Khan el-Khalili"]
+    },
+    "Rio": {
+      "cityName": "Rio de Janeiro",
+      "country": "Brazil",
+      "population": 6747815,
+      "area": 4868,
+      "timezone": "BRT",
+      "famousLandmarks": ["Christ the Redeemer", "Copacabana Beach", "Sugarloaf Mountain"]
+    },
+    "LA": {
+      "cityName": "Los Angeles",
+      "country": "United States",
+      "population": 3999759,
+      "area": 1302,
+      "timezone": "PST",
+      "famousLandmarks": ["Hollywood Sign", "Santa Monica Pier", "Griffith Observatory"]
+    },
+    "Berlin": {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "population": 3669491,
+      "area": 891.8,
+      "timezone": "CET",
+      "famousLandmarks": ["Brandenburg Gate", "Berlin Wall", "Reichstag Building"]
+    },
+    "Rome": {
+      "cityName": "Rome",
+      "country": "Italy",
+      "population": 2872800,
+      "area": 1285.31,
+      "timezone": "CET",
+      "famousLandmarks": ["Colosseum", "Roman Forum", "Trevi Fountain"]
+    },
+    "Toronto": {
+      "cityName": "Toronto",
+      "country": "Canada",
+      "population": 2731571,
+      "area": 630.2,
+      "timezone": "EST",
+      "famousLandmarks": ["CN Tower", "Royal Ontario Museum", "Toronto Islands"]
+    },
+    "Mumbai": {
+      "cityName": "Mumbai",
+      "country": "India",
+      "population": 12442373,
+      "area": 603.4,
+      "timezone": "IST",
+      "famousLandmarks": ["Gateway of India", "Chhatrapati Shivaji Maharaj Terminus", "Marine Drive"]
+    },
+    "Seoul": {
+      "cityName": "Seoul",
+      "country": "South Korea",
+      "population": 9741381,
+      "area": 605.21,
+      "timezone": "KST",
+      "famousLandmarks": ["Gyeongbokgung Palace", "N Seoul Tower", "Myeongdong Shopping Street"]
+    },
+    "MexicoCity": {
+      "cityName": "Mexico City",
+      "country": "Mexico",
+      "population": 8874724,
+      "area": 1485,
+      "timezone": "CST",
+      "famousLandmarks": ["Zócalo", "Chapultepec Park", "Frida Kahlo Museum"]
+    },
+    "Bangkok": {
+      "cityName": "Bangkok",
+      "country": "Thailand",
+      "population": 8250000,
+      "area": 1568.7,
+      "timezone": "ICT",
+      "famousLandmarks": ["Grand Palace", "Wat Arun", "Chatuchak Weekend Market"]
+    },
+    "Istanbul": {
+      "cityName": "Istanbul",
+      "country": "Turkey",
+      "population": 15460000,
+      "area": 5461,
+      "timezone": "TRT",
+      "famousLandmarks": ["Hagia Sophia", "Topkapi Palace", "Bosphorus Bridge"]
+    },
+    "Singapore": {
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "population": 5704000,
+      "area": 728.6,
+      "timezone": "SGT",
+      "famousLandmarks": ["Marina Bay Sands", "Gardens by the Bay", "Sentosa Island"]
+    }
+}
+    
